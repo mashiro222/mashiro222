@@ -1,5 +1,4 @@
-### Hi there 👋
-learning Computer Graphing with joy！
+### A college student who love Mathematics
 <!--
 **mashiro222/mashiro222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
